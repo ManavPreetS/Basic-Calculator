@@ -1,13 +1,3 @@
-// use DOM queries to get access to the DOM elements that you need
-
-// link the displayDigit function to the click event of the digit buttons
-
-
-//link the operationClicked function to the click even of the operation buttons
-
-
-// Define the displayDigit function to be added as an event listener to the buttons representing the
-// digits so that when the button is clicked the digit it represents would be concatenated
 let displ = document.getElementById('display');
 let opp = document.getElementsByClassName('operation');
 let equal = document.getElementById('btnEqual');
